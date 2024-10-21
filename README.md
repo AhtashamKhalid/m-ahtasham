@@ -65,4 +65,4 @@ An AI-driven platform offering personalized learning experiences and skill asses
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ahtasham-b45b66214/)
